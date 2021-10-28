@@ -1,0 +1,17 @@
+@import "./partials/fonts/fonts";
+@import "./partials/inputs";
+@import "./partials/tags";
+@import "./partials/student-data";
+* {
+  box-sizing: border-box;
+  font-family: "Raleway";
+  margin: none;
+}
+ol {
+  list-style-type: none;
+  counter-reset: elementcounter;
+}
+
+// .container {
+//   width: 10%;
+// }
